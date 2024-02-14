@@ -30,7 +30,7 @@ class Increment extends Thread {
     }
 }
 
-class Decrement extends Thread {
+class . extends Thread {
     private int[] counter;
 
     // Constructor to receive the counter value
